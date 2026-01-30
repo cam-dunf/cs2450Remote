@@ -1,7 +1,7 @@
 import random
 
-print("I will try to guess your age.")
-name = input("What is your name? ")
+print("I will try to guess your age!")
+name = input("What's your name? ")
 
 while True:
     age = random.randint(15, 30)
