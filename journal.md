@@ -1,1 +1,1 @@
-Nevermind, keeping my entries on my repo. Journal Entry 02/02/2026- Subject: Check Canvas. I learned today that there were a couple of assignments due yesterday on Canvas that I had no idea about. I need to start making a habit of checking Canvas everyday so I don't get behind on assignments. :)
+I'll be keeping a physical journal.
